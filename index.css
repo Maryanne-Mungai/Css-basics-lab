@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#Name{
+    background-color: red;
+    text-align: center;
+
+}
+.intro{
+    line-height: 2em;
+    font-size: 16px;
+    background-color:red;
+    text-align: center;
+}
+.personal{
+     line-height: 2em;
+     margin-left: 70px;
+     padding-left: 20px;
+}
+.profile img{
+    width: 125px;
+    height: 130px;
+    position: absolute;
+    left: 20px;
+    top: 0px;
+    border-radius: 20%;
+    padding-left: 20px;
+    margin-left: 70px;
+}
+.education{
+    line-height: 2em;
+     font-weight: 300;
+     margin-left: 70px;
+     padding-left: 20px;
+}
+.skills{
+    line-height: 2em;
+    font-weight: 300; 
+    margin-left: 90px;
+    padding-left: 20px;
+}
+body{
+    background-color:bisque
+}
+.LinkedIn{
+    margin-left: 70px;
+    padding-left: 20px;
+}
+#title{
+    margin-left: -18px;
+}
